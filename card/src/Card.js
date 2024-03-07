@@ -13,7 +13,7 @@ const Card = () => {
             <FaStar color="gold" />
           </div>
           <img
-            src="img3.png"
+            src="img2.png"
             alt="Card Img"
             className="object-cover p-2 rounded-3xl object-center w-full h-full max-w-xs mx-auto"
           />
